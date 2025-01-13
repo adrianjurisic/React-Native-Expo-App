@@ -19,12 +19,12 @@ const styles = StyleSheet.create({
   goalItem: {
     margin: 8,
     borderRadius: 6,
-    backgroundColor: '#ffe40f',
-    color: 'black',
+    backgroundColor: '#191d8c',
+    color: 'white',
   },
   goalText: {
     padding: 8,
-    color: 'black',
+    color: 'white',
   },
   pressedItem: {
     opacity: 0.5,
